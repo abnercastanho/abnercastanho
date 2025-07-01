@@ -44,9 +44,4 @@
 </div>
 <br>
 
-<div align="center">
-  <p align="center"><img align="center" src="" /></p> 
-
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=73b1ea&height=110&section=footer"/>
